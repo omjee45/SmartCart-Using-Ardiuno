@@ -185,7 +185,6 @@ SmartCart-Using-Ardiuno/
 ├── LICENSE                # MIT License
 ├── README.md              # Project landing page & quick start guide
 ├── SmartCart.ino          # Arduino firmware (C++)
-└── report.txt             # Academic project report source text
 ```
 
 ---
